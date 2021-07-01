@@ -2,3 +2,5 @@ Git is amazing for version control.
 
 Here are some more notes.  I've changed the file now.
 This change will be saved to my git repository so I can see what's changed since the last version.
+
+Here is yet another change.
